@@ -1,4 +1,4 @@
-# oop-assignment-1-Questions
+# OOP-Assignment-1-Questions
 OOP assignment in c++. This assignment includes 30 questions, this assignment covers all the basics which are required for OOP. Read readme file for more details and questions related to this assignment.
 
 <b>Elementary Exercises</b>
