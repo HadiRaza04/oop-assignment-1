@@ -66,13 +66,11 @@ sum and average
 number or not
 27. Write a C program to determine whether a given number is prime or not
 28. Write a C program to display Pascal's triangle
-
         1
       1   1 
     1   2   1 
   1   3   3   1
 1   4   6   4   1 
-
 29. Write a C program to check whether a number is a Strong Number or not
 30. Write a program in C to get the largest element of an array using the 
 function
